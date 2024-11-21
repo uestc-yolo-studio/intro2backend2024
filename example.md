@@ -239,5 +239,107 @@ all in all，
 
 
 
+## 工作室可以为你提供什么
+
+一些我和我朋友写的项目和比赛的项目
+
+（都是本科大厂 30k 选手）
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/202411220121958.png" style="height: 40vh"/>
+    <img src="https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/202411220124101.png" style="height: 40vh"/>
+</div>
 
 
+
+## 工作室可以为你提供什么
+
+直推到老板手里的内推
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/202411220155975.png" style="height: 40vh"/>
+    <img src="https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/202411220213506.png" style="height: 40vh"/>
+</div>
+
+
+
+## 学习资源
+
+- [白马程序员，你值得学习](https://itbaima.cn)
+- [AZAZ，后端面试旗舰项目](https://q0vu7p9lgwj.feishu.cn/docx/G60IdlBFZo4kcNxnXrxcj7uInBh)
+- [Gateway，网关轮子项目](https://pan.baidu.com/s/1A9yt1JqQkmOV9H0JauYB3A?pwd=5tc7)
+- [Mysql 实战 45 讲](https://jums.gitbook.io/mysql-shi-zhan-45-jiang)
+- [Redis 核心技术与实战](http://175.178.58.43/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4-html/100-150/146-Redis%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98/)
+- [代码随想录，一般通过算法学习路线](https://www.programmercarl.com/)
+- 其他，其实我也可以出培养方案
+
+
+
+## 关于大一
+
+我觉得其实可以稍微学点 Java，学到二阶段就可以。
+
+不用投入太多精力，学好数学和 C 语言。
+
+你感兴趣就多学点，没时间就少学点。
+
+可以稍微多卷点课内。
+
+为什么我这里没提竞赛呢？我觉得大一不用打比赛。
+
+可以顺势开始写一点 leetcode，那个不难。
+
+用代码随想录就可以了。
+
+<small style="color: #75715E">到时候顺其自然就好了，你甚至可以拿上面的学习资源包装成比赛项目。</small>
+
+
+
+## 多讲一下竞赛
+
+- <p style="color: #66D9EF;">代码随想录刷完应该能去蓝桥杯 Java 组国赛，至于国赛难度，我没打过</p>
+- <p style="color: #66D9EF;">水赛的关键在于文档，我可以把我的（虽然其实我的项目是有技术含金量的） OnlineRealmEye 的国一项目文档给你们</p>
+- <p style="color: #66D9EF;">后端在竞赛的核心作用:吹牛逼</p>
+- <p style="color: #66D9EF;">水赛类似于摸奖，多摸奖，总会中的</p>
+
+
+
+## 多讲一下保研
+
+- <p style="color: #66D9EF;">大一同学关心绩点就够了</p>
+- <p style="color: #66D9EF;">写代码随想录对你保研也有帮助</p>
+- <p style="color: #66D9EF;">可以功利性地学习后端，至少要能对竞赛有正面作用</p>
+- <p style="color: #66D9EF;">剩下的等你们大一成绩定型再讨论</p>
+
+
+
+## 多讲一下后端
+
+- <p style="color: #66D9EF;">学后端是判断你自己适不适合后端的最好办法</p>
+- <p style="color: #66D9EF;">写着写着后端发现前端有意思去写前端也行</p>
+- <p style="color: #66D9EF;">如果你目标保研，最好也会点前后端</p>
+- <p style="color: #66D9EF;">不然研究生毕业也很容易找不到工作</p>
+- <p style="color: #66D9EF;">本科和研究生毕业薪资没啥差距</p>
+- <p style="color: #66D9EF;">但是读研可能能有更多选择（虽然我还没开始读）</p>
+
+
+
+## Q & A
+
+大家自由提问，重要问题
+
+会后我会记录到 PPT 的 doc 上去。
+
+然后 PPT 的链接我会给出来。
+
+
+
+## End
+
+那么我们轻松愉快的后端科普小会，
+
+到此结束
+
+个人体会，仅供参考。
+
+相关内容，严禁外传。
